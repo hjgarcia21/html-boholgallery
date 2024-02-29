@@ -293,8 +293,18 @@ text-align: center;
         cursor: pointer;
     }
 }
+.navigation-footer a{
+    float: left;
+    color: #fff;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.navigation-footer ul li{
+    display: inline-block;
 
 
+}
 .small-container{
     max-width: 1080px;
     margin: auto;
